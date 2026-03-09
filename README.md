@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hola, soy Sebastián Binimelis 👋
 
-<!--
-**sebastianbinimelis/sebastianbinimelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Civil Industrial con experiencia en logística, operaciones y mejora de procesos.  
+Actualmente enfocado en análisis de datos y ciencia de datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- Ingeniero Civil Industrial
+- Experiencia en logística, operaciones e inventarios
+- Formación reciente en Data Science
+- Interés en roles de Data Analyst / BI Analyst / Data Science Jr
+- Enfoque en análisis de datos y mejora de procesos
+
+---
+
+## Tecnologías y herramientas
+
+- Python
+- SQL
+- Excel
+- Tableau
+- Pandas
+- Scikit-learn
+- Machine Learning
+
+---
+
+## Proyectos de Data Science
+
+En este perfil encontrarás proyectos relacionados con:
+
+- Análisis exploratorio de datos
+- Visualización de datos
+- Machine Learning
+- SQL y análisis de bases de datos
+
+---
+
+## Certificados
+
+- Data Science
+- Python para análisis de datos
+- SQL
+
+---
+
+## Contacto
+
+LinkedIn: (agregar link)  
+Email: (agregar correo)
